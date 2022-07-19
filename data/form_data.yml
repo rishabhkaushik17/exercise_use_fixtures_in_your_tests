@@ -1,0 +1,7 @@
+google_form_fixtures:
+  name: ~full_name
+  email: ~email_address
+  enroll_no: ~cell_phone
+  address: ~street_address
+  phone_number: ~cell_phone
+  cgpa: ~randomize(5.0..10.0)
